@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Content Source Classification",
+    "description": "Identify the source of the video content: whether it's originally created for TikTok, derived from media sources, or shared from other users. If the source is ambiguous, answer 'Unknown'. What is the content source? Answer 'Original', 'Media', 'User', or 'Unknown'."
+  },
+  {
+    "title": "Political Content Frame Analysis",
+    "description": "Classify the political content of the video as focusing on specific issues ('issue frame') or on political tactics/strategy ('game frame'). If both frames are present, answer 'Both'. If it's unclear, answer 'Unknown'. Is the content 'Issue', 'Game', 'Both', or 'Unknown' frame?"
+  },
+  {
+    "title": "Personalization vs. Political Branding",
+    "description": "Ascertain if the video's focus is on personalization (highlighting individual politicians) or political branding (emphasizing the party). If both elements are present, answer 'Both'. If unclear, answer 'Unknown'. Is the focus 'Personalization', 'Branding', 'Both', or 'Unknown'?"
+  },
+  {
+    "title": "Entertainment Content Assessment",
+    "description": "Evaluate whether the video is primarily for entertainment, like dances or jokes, with no political content. If it's a mix of both, answer 'Both'. If unclear, answer 'Unknown'. Is the video 'Entertainment', 'Political', 'Both', or 'Unknown'?"
+  },
+  {
+    "title": "Interaction Level Determination",
+    "description": "Determine the interaction level as informational (basic information sharing), deliberative (encouraging discussions), or mobilizing (urging participation). If multiple levels are present, answer 'Multiple'. If unclear, answer 'Unknown'. Is the level 'Informational', 'Deliberative', 'Mobilizing', 'Multiple', or 'Unknown'?"
+  }
+]
